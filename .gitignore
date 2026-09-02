@@ -1,0 +1,11 @@
+.venv/
+myvenv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+edge_pub/
+edge_sub/
+config.py
+fields.py
+requirements.txt
